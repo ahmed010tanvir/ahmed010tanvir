@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ex-noxian
-- 👀 I’m interested in Coding & 3D Modleing.
-- 🌱 I’m currently learning JaVaScript & Algorithms.
+- 👀 I’m interested in Coding & 3D Modeling.
+- 🌱 I’m currently learning Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
