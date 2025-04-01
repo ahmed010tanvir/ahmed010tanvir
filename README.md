@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Game Devlopment**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Godot/Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
