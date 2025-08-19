@@ -6,19 +6,19 @@
 
 ---
 
-- 🌱 Learning **Godot**
+🪴 Learning **Godot**
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="40" alt="Godot" />
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" alt="Blender" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" alt="Blender" />
 </p>
 
 ---
