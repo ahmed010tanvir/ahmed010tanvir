@@ -7,7 +7,7 @@
 ---
 
 - 🔭 Currently working on a **small indie game**  
-- 🌱 Learning **Godot, C#, Go**
+- 🌱 Learning **Godot**
 
 ---
 
