@@ -13,15 +13,16 @@
 <h3 align="left">🛠 Languages & Tools</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="30" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="40" alt="Godot" />
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="30" alt="Blender" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" alt="Blender" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed010tanvir&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00ffe0&text_color=add8e6&icon_color=00ffe0&ring_color=00ffe0" alt="ahmed010tanvir stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed010tanvir&show_icons=true&theme=github_dark&hide_border=true" alt="ahmed010tanvir stats" />
 </p>
