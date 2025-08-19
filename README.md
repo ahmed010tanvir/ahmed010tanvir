@@ -18,7 +18,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="30" alt="Blender" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="30" alt="Unity" /> 
 </p>
 
 ---
