@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=0B0F15)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0B0F15)
 
+![My GitHub Game](game.gif)
 
-<img align="center" src="gh-space-shooter.gif" />
 
 
