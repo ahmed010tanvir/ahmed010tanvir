@@ -1,34 +1,16 @@
-<h3 align="center">Hello 👋</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed010tanvir&label=👻&color=0e75b6&style=flat" alt="ahmed010tanvir" />
-</p>
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Tanvir+%21%F0%9F%91%8B" />
 
----
+## 🔧 Technologies & Tools
 
-🪴 Learning **Full-Stack Web Development (PERN)**
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0B0F15)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0B0F15)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0B0F15)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0B0F15)
+![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=0B0F15)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0B0F15)
 
----
 
-<h3 align="left">Languages & Tools</h3>
+<img align="center" src="gh-space-shooter.gif" />
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-</p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed010tanvir&show_icons=true&theme=github_dark&hide_border=true" alt="ahmed010tanvir stats" />
-</p>
